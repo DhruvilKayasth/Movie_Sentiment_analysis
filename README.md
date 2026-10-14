@@ -2,6 +2,12 @@
 
 Streamlit web app based on the original movie sentiment analysis notebook.
 
+## 🚀 Live Demo
+
+Try the Movie Sentiment Analysis app here:
+
+[Open Streamlit App](https://moviesentimentanalysis-skhvdkcwbmbpegzi5oozts.streamlit.app/)
+
 ## ML Pipeline
 - TF-IDF Vectorizer
 - Logistic Regression
